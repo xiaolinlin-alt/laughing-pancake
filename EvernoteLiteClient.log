@@ -1,2 +1,0 @@
-[2025-01-13T06:37:47.396Z] ERROR: lite_client_logger: Failed to authenticate fake user {}
-[2025-01-13T06:37:47.397Z] ERROR: lite_client_logger: Failed to fetch {"message":"Failed to fetch","name":"TypeError"}
