@@ -1,2 +1,2 @@
 # laughing-pancake
-secret
+这是我的作业
